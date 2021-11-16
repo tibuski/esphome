@@ -1,6 +1,6 @@
 # ESP Home
 
-This is my [ESPHome] (https://esphome.io/) Library 
+This is my [ESPHome](https://esphome.io/) Library 
 
 ## rfid.yaml
 
